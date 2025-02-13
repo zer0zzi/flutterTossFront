@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500768838926",
+    "project_id": "fluttertossfront",
+    "storage_bucket": "fluttertossfront.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500768838926:android:a5c4c608d463ea816bb35f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_toss_front"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyD7_nAGUNWUJg-SRlBrkrFPwXdLc2bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
